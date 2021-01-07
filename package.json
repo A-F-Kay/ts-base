@@ -1,6 +1,6 @@
 {
   "name": "ts-base",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "TypeScript + Webpack + ESLint + Prettier configured",
   "main": "index.ts",
   "scripts": {
@@ -12,7 +12,7 @@
     "pfix": "prettier --write \"./src/**/*.+(js|jsx|ts|tsx)\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Lara",
+  "author": "Lara (https://github.com/A-F-Kay)",
   "license": "MIT",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.4.1",
